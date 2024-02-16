@@ -7,4 +7,4 @@ Designed with team in Boston University , Sep 2023-Dec2023
 
 3.Presented research to company staff and professors at the Boston University Research Fair.
 
-This is a corporated project , since it was a project for a company called Synthera Health, I can only post the poster and cannot show you more deail work.
+This is a corporated project , since it was a project for a company called Synthera Health, I can only post the poster and a summary version.
